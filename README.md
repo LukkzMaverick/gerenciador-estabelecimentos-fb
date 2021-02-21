@@ -15,5 +15,6 @@ Essa aplicação foi além dos requisitos e tem algumas particularidades, é nec
 - Criar uma nova conta em Cadastre-se
 - Após o cadastro o usuário ficará logado como usuário, mas não poderá executar nenhum cadastro, para mudar isso entre no MongoDB Compass(local) ou mongo atlas(nuvem) e modifique a role do usuário criado para "superAdmin" 
 
-
+![GitHub Logo](/readmeImages/superAdmin.png)
+Format: ![Alt Text](url)
 
