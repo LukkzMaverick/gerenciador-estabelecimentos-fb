@@ -49,11 +49,11 @@ const Admin = (props) => {
       <AdminRoute exact basename={props.match.path} path={'/editarEstabelecimentos'}
         component={() => <CadastrarEstabelecimentos novoCadastro={false} />} />
 
-      <AdminRoute exact basename={props.match.path} path={'/buscaPorLocalizacao'}
+      {/* <AdminRoute exact basename={props.match.path} path={'/buscaPorLocalizacao'}
         component={() => <BuscaPorLocalizacao admin={true}></BuscaPorLocalizacao>} /> 
 
       <AdminRoute exact basename={props.match.path} path={'/filtroLocalizacao'}
-        component={() => <TabelaEstabelecimentos admin={true} filtroLocalizacao={true} />} />
+        component={() => <TabelaEstabelecimentos admin={true} filtroLocalizacao={true} />} /> */}
     </>
   )
 }

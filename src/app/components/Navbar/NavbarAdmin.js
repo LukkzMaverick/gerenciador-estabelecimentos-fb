@@ -18,7 +18,7 @@ const NavbarAdmin = (props) => {
                     Lista de Estabelecimentos</NavDropdown.Item> : ''}
                 <NavDropdown.Item onClick={goToCadastrarEstabelecimentos}>
                     Cadastrar Estabelecimento</NavDropdown.Item>
-                <NavDropdown.Item onClick={goToBuscaPorLocalizacao}>Busca por Localização</NavDropdown.Item> 
+                {/* <NavDropdown.Item onClick={goToBuscaPorLocalizacao}>Busca por Localização</NavDropdown.Item>  */}
                 <NavDropdown.Divider />
                 <NavDropdown.Item onClick={props.logout}>Sair</NavDropdown.Item>
             </NavDropdown>
