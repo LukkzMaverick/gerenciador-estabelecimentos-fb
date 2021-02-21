@@ -8,7 +8,8 @@
     npm install   
     npm start
 
-## Configuração Inicial
+## Passo a passo
+Essa aplicação foi além dos requisitos e tem algumas particularidades, é necessário seguir o passo a passo, para usá-la corretamente.
 
 - Iniciar o back-end antes de rodar o front - back-end_rep: https://github.com/LukkzMaverick/gerenciador-de-estabelecimentos-api-fb
-
+- Criar uma nova conta
