@@ -1,4 +1,4 @@
-# gerenciador-de-estabelecimentos
+# gerenciador-estabelecimentos-fb
 
 # Pré-Requisitos
 
