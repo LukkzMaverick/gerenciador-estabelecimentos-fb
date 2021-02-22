@@ -129,6 +129,7 @@ const CadastrarEstabelecimentos = (props) => {
   }
 
   async function requestHandlerPut() {
+    console.log(form.empresaId)
     setBotaoHabilitado(false)
     const data = await dispatch(fetchPutEstabelecimento(
       {
