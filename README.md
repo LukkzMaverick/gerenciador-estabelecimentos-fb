@@ -20,3 +20,5 @@ Essa aplicação foi além dos requisitos e tem algumas particularidades, é nec
 ![](/readmeImages/superAdmin.png)
 
 - Este novo usuário agora é um super admin, isto significa que ele pode fazer tudo o que um admin faz(todos os cadastros, atualizações e exclusões), e além disso também pode criar outros admins, esses outros admins não podem criar outros admins.
+- Ao fazer o login com o super admin, você vai para a Home dele que é uma página de cadastro de admins. Criando um novo admin, você recebe a sua senha.
+![](/readmeImages/cadastrarAdmin.png)
