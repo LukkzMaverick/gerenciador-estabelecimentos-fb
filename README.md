@@ -8,6 +8,11 @@
     npm install   
     npm start
 
+## Considerações Iniciais
+- O escopo da aplicação vai bem além do pedido, contendo 3 nivéis de usuário, admin, superAdmin(admin que pode criar admins) e usuário.
+- Localização é um model independente mas foi atrelado a estabelecimento, da forma como foi feito, o usuário não precisa se preocupar em cadastrar localização, nem em removê-las, isso é feito por de trás dos panos quando ele mexe no estabelecimento. Isso deixou o site mais intuitivo e com melhor usabilidade. 
+- Dessa forma além do CRUD de estabelecimentos temos um CRUD implicito para localização, tudo isso sendo tratado dentro do controller.
+
 ## Passo a passo
 Essa aplicação foi além dos requisitos e tem algumas particularidades, é necessário seguir o passo a passo, para usá-la corretamente.
 
