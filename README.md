@@ -13,8 +13,8 @@ Essa aplicação foi além dos requisitos e tem algumas particularidades, é nec
 
 - Iniciar o back-end antes de rodar o front - back-end_rep: https://github.com/LukkzMaverick/gerenciador-de-estabelecimentos-api-fb
 - Criar uma nova conta em Cadastre-se
-- Após o cadastro o usuário ficará logado como usuário, mas não poderá executar nenhum cadastro, para mudar isso entre no MongoDB Compass(local) ou mongo atlas(nuvem) e modifique a role do usuário criado para "superAdmin" 
+- Após o cadastro o usuário ficará logado como usuário, mas não poderá executar nenhum cadastro, para mudar isso entre no MongoDB Compass(local, pode utilizar a mongoURI que está na .env) entre no banco test, dentro da collection usuarios e modifique a role do usuário criado para "superAdmin"
 
-![GitHub Logo](/readmeImages/superAdmin.png)
-Format: ![Alt Text](url)
+![](/readmeImages/connectionString.png)
+![](/readmeImages/superAdmin.png)
 
