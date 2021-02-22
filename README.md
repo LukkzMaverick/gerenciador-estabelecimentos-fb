@@ -22,3 +22,6 @@ Essa aplicação foi além dos requisitos e tem algumas particularidades, é nec
 - Este novo usuário agora é um super admin, isto significa que ele pode fazer tudo o que um admin faz(todos os cadastros, atualizações e exclusões), e além disso também pode criar outros admins, esses outros admins não podem criar outros admins.
 - Ao fazer o login com o super admin, você vai para a Home dele que é uma página de cadastro de admins. Criando um novo admin, você recebe a sua senha.
 ![](/readmeImages/cadastrarAdmin.png)
+- Ainda tem muitas coisas que poderiam ser mostradas nesse README, mas ficaria muito grande, sinta-se a vontade para explorar o sistema e perceba que existem 3 roles diferentes de usuários que podem executar ações diferentes, além disso repare que os usuários admin, só estão recebendo informações relativas aos estabelecimentos e empresas cadastradas por eles mesmos, enquanto o usuário comum, pode ver todas as empresas e estabelecimentos cadastrados, além de fazer buscas por localização nos mesmos.
+- Perceba também que a maioria das ações podem ser achados no dropdown com o nome do usuário
+- ![](/readmeImages/dropdown.png)
