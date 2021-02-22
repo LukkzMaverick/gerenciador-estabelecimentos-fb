@@ -30,6 +30,7 @@ Essa aplicação foi além dos requisitos e tem algumas particularidades, é nec
 - Ainda tem muitas coisas que poderiam ser mostradas em foto nesse README, mas ficaria muito grande, sinta-se a vontade para explorar o sistema e perceba que existem 3 roles diferentes de usuários que podem executar ações diferentes, além disso repare que os usuários admin, só estão recebendo informações relativas aos estabelecimentos e empresas cadastradas por eles mesmos, enquanto o usuário comum, pode ver todas as empresas e estabelecimentos cadastrados, além de fazer buscas por localização nos mesmos.
 - Perceba também que a maioria das ações podem ser achados no dropdown com o nome do usuário
 ![](/readmeImages/dropdown.png)
+- Antes de usar um usuário cadastre empresas e estabelecimentos com um admin, para a aplicação fazer algum sentido.
 - Repare também, que só são mostradas aos usuários as empresas que tem um algum estabelecimento vinculado, além disso é possível fazer busca por localização independente da empresa usando o dropdown ou já dentro de uma empresa buscar por estabelecimentos de uma localização dentro de determinada empresa através da lupa em cima da tabela.
 ![](/readmeImages/dropdownLocalizacao.png)
 ![](/readmeImages/lupa.png)
