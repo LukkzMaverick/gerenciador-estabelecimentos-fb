@@ -19,3 +19,4 @@ Essa aplicação foi além dos requisitos e tem algumas particularidades, é nec
 ![](/readmeImages/connectionString.png)
 ![](/readmeImages/superAdmin.png)
 
+- Este novo usuário agora é um super admin, isto significa que ele pode fazer tudo o que um admin faz(todos os cadastros, atualizações e exclusões), e além disso também pode criar outros admins, esses outros admins não podem criar outros admins.
